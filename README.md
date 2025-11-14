@@ -27,6 +27,10 @@ A basic command line interface shell implemented in C++ for Operating Systems pr
 ```bash
 make
 ```
+4. Run `./simple_shell`
+```bash
+./simple_shell
+```
 ### If you encounter permission issues:
 1. `chmod +x Makefile`
 ```bash
@@ -36,7 +40,4 @@ chmod +x Makefile
 ```bash
 make clean
 ```
-5. Run `./simple_shell`
-```bash
-./simple_shell
-```
+
