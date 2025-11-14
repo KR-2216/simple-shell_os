@@ -24,11 +24,10 @@ A basic command line interface shell implemented in C++ for Operating Systems pr
 1. Clone or download the source files to a directory
 2. Navigate to the project directory
 3. Run `make` to compile:
-   # If you encounter permission issues:
-   `chmod +x Makefile`
-   `make clean`
-4. Run `./simple_shell`
-
-
 ```bash
 make
+```
+## If you encounter permission issues:
+`chmod +x Makefile`
+`make clean`
+5. Run `./simple_shell`
